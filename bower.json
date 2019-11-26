@@ -32,5 +32,6 @@
   "dependencies": {
     "jquery": ">=1.7.0",
     "jqueryui": ">=1.9.2"
-  }
+  },
+  "license": "GPL-3.0-or-later"		
 }
